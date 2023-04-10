@@ -7,6 +7,7 @@
   <name>Archetype - homework_DB_1_Morozov</name>
   <url>http://maven.apache.org</url>
 
+  
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
